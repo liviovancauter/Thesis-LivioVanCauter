@@ -8,7 +8,7 @@ Perera et al., including all curated input files used for model training and
 validation. Files for exploratory data analysis on the original datasets.
 
 • Quantum chemistry: All output and xyz files for molecular and mechanistic
-quantum chemical calculations.
+quantum chemical calculations. Notes: All QM files are added via a release named "Quantum Chemistry data files" as a zip file, due to size issues.
 
 • Microkinetic model: Scripts and models used for the microkinetic model.
 
