@@ -1,0 +1,1 @@
+In this folder, different text files are located. Each text file contains the different packages used for that specific environement. Installing some or all of these packages is required to run the code in this repository.
